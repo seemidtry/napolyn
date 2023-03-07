@@ -30,8 +30,8 @@ document.addEventListener("DOMContentLoaded", function () {
     };
 
     if (country == "tr-tr"){
-        window.location.href = "napolyn/" + "../../tr-tr/index.html";
+        window.location.href = "https://seemidtry.github.io/napolyn/tr-tr/index.html";
     }else{
-        window.location.href = "napolyn/" + "../../en-us/index.html";
+        window.location.href = "https://seemidtry.github.io/napolyn/en-us/index.html";
     }
 });
